@@ -72,9 +72,9 @@ Projet SAYNA
 
     <meta charset="utf-8">
 
-    <title>BATMAN</title>
+    <title>HOME</title>
 
-    <link href="https://fonts.googleapis.com/css?family=open+sans+condensed:300|sonsie+one" rel="stylesheet" type="text/css">
+    <link href="Bathome1" rel="stylesheet" type="text/css">
 
     <link rel="stylesheet" href="style.css">
 
@@ -82,20 +82,20 @@ Projet SAYNA
 
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+<script>Au nom de ses parents assassinés, Bruce Wayne mène une guerre éternelle contre les criminels de Gotham City. Il est vengeur. Il est la nuit. Il est BATMAN</script>
 
 
   </head>
 
-  <body>
 
-    <!-- voici notre en‑tête principale utilisée dans toutes les pages
 
-          de notre site web -->
+ 
+
+
 
     <header>
 
-      <h1>en-tête</h1>
+      <h1>VOIR LES HEROS  LES ADVERSAIRES</h1>
 
     </header>
 
@@ -103,27 +103,31 @@ Projet SAYNA
 
       <ul>
 
-        <li><a href="#">accueil</a></li>
+        <li><a href="#">BATMAN AU CINÉMA</a></li>
 
-        <li><a href="#">l'équipe</a></li>
+        <li><a href="#">NÉMÉSIS</a></li>
 
-        <li><a href="#">projets</a></li>
+        <li><a href="#">ALLIÉS</a></li>
 
-        <li><a href="#">contact</a></li>
+        <li><a href="#">JUSTICE LEAGUE</a></li>
+        
+        <li><a href="#">MULTIMÉDIA</a></li>
+        
+        <li><a href="#">PRENONS CONTACT</a></li>
+        
+
+
+
 
       </ul>
 
-        <!-- un formulaire de recherche est une autre façon de naviguer de
 
-            façon non‑linéaire dans un site. -->
 
-        <form>
 
-          <input type="search" name="q" placeholder="rechercher">
 
-          <input type="submit" value="lancer !">
 
-        </form>
+
+
 
       </nav>
 
