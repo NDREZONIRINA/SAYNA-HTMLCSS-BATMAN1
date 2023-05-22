@@ -67,7 +67,6 @@ Projet SAYNA
 
 
 
-    <meta charset="utf-8">
 
     <title>HOME</title>
 
