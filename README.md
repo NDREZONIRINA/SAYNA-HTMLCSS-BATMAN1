@@ -95,9 +95,8 @@ Projet SAYNA
 
     <nav>
 
-      <ul>
 
-        <li><a href="#">BATMAN AU CINÉMA</a></li>
+
 
 
 
