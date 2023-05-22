@@ -81,7 +81,6 @@ Projet SAYNA
 
 
 
-<script>Au nom de ses parents assassinés, Bruce Wayne mène une guerre éternelle contre les criminels de Gotham City. Il est vengeur. Il est la nuit. Il est BATMAN</script>
 
 
   </head>
