@@ -65,7 +65,6 @@ Projet SAYNA
 
 
 
-<html>
 
   <head>
 
