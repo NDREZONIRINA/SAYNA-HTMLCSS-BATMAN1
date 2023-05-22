@@ -71,7 +71,6 @@ Projet SAYNA
 
     <title>HOME</title>
 
-    <link href="Bathome1" rel="stylesheet" type="text/css">
 
 
 
