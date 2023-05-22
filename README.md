@@ -68,7 +68,6 @@ Projet SAYNA
 
 
 
-    <title>HOME</title>
 
 
 
