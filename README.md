@@ -93,7 +93,6 @@ Projet SAYNA
 
     <header>
 
-      <h1>VOIR LES HEROS  LES ADVERSAIRES</h1>
 
     </header>
 
