@@ -75,7 +75,6 @@ Projet SAYNA
 
     <link href="Bathome1" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" href="style.css">
 
 
 
@@ -83,7 +82,6 @@ Projet SAYNA
 
 
 
-  </head>
 
 
 
@@ -101,9 +99,8 @@ Projet SAYNA
 
         <li><a href="#">BATMAN AU CINÉMA</a></li>
 
-        <li><a href="#">NÉMÉSIS</a></li>
 
-        <li><a href="#">ALLIÉS</a></li>
+
 
         
         
